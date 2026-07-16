@@ -1,85 +1,126 @@
-# 📊 Statistical Analysis of Supermarket Sales Dataset
+# 📊 Task 4 - Advanced Analytics & Statistical Modeling
 
-## 📌 Overview
+## ApexPlanet Data Analytics Internship
 
-This project performs statistical analysis and visualization on the Supermarket Sales dataset using Python. The goal is to explore the data, calculate descriptive statistics, perform hypothesis testing, and generate meaningful visual insights.
+### 📌 Project Overview
+
+This project is the fourth task of my Data Analytics Internship at **ApexPlanet Software Pvt. Ltd.**
+
+The objective of this task is to perform advanced data analysis techniques including statistical analysis, time series analysis, customer segmentation, and predictive modeling using Python and Machine Learning.
 
 ---
 
-## 🚀 Features
+## 📂 Dataset
 
-- Import and analyze the supermarket sales dataset
-- Data exploration and preprocessing
-- Descriptive statistical analysis
-- Mean, Median, Mode
-- Variance and Standard Deviation
-- Correlation analysis
-- Histogram visualization
-- Heatmap visualization
-- One-Sample T-Test using SciPy
-- Branch-wise sales comparison
+**Dataset Used:** Supermarket Sales Dataset
+
+The dataset contains customer purchase information including:
+
+- Invoice Details
+- Branch
+- City
+- Customer Type
+- Product Line
+- Unit Price
+- Quantity
+- Total Sales
+- Payment Method
+- Rating
 
 ---
 
 ## 🛠️ Technologies Used
 
 - Python
-- Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Scikit-learn
 - SciPy
+- Jupyter Notebook
 
 ---
 
-## 📂 Dataset
+## 📈 Project Sections
 
-- Supermarket Sales Dataset (.csv)
+### 1️⃣ Statistical Analysis
 
----
-
-## 📈 Analysis Performed
-
-- Dataset Overview
-- Missing Value Analysis
+- Data Exploration
 - Descriptive Statistics
-- Distribution of Total Sales
-- Correlation Heatmap
-- Hypothesis Testing
-- Average Sales by Branch
+- Mean, Median & Mode
+- Variance & Standard Deviation
+- Histogram & Boxplot
+- Correlation Matrix
+- Heatmap
+- One-Sample T-Test
+- ANOVA Test
 
 ---
 
-## 📷 Sample Outputs
+### 2️⃣ Time Series Analysis
 
-- Histogram of Total Sales
-- Correlation Heatmap
-- Statistical Summary
-- T-Test Results
-- Branch-wise Sales Analysis
+- Date Conversion
+- Daily Sales Analysis
+- Monthly Sales Analysis
+- Monthly Sales Visualization
+- 7-Day Moving Average
+- Sales Trend Analysis
+
+---
+
+### 3️⃣ Customer Segmentation
+
+- Feature Selection
+- Data Scaling
+- Elbow Method
+- K-Means Clustering
+- Cluster Visualization
+- Customer Segment Analysis
+
+---
+
+### 4️⃣ Predictive Modeling
+
+- Train-Test Split
+- Linear Regression
+- Decision Tree Regression
+- Model Evaluation
+- Feature Importance
+- Actual vs Predicted Comparison
+
+---
+
+## 📊 Results
+
+- Successfully analyzed sales trends over time.
+- Identified customer segments using K-Means Clustering.
+- Built predictive models to estimate total sales.
+- Evaluated model performance using MAE and R² Score.
 
 ---
 
 ## 🎯 Learning Outcomes
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
+Through this project, I gained practical experience in:
+
 - Statistical Analysis
+- Time Series Analysis
+- Customer Segmentation
+- Machine Learning
 - Data Visualization
-- Hypothesis Testing using SciPy
-- Business Insight Generation
+- Predictive Analytics
 
 ---
 
-## 📜 Conclusion
+## 📌 Internship
 
-The project successfully demonstrates how statistical methods and data visualization techniques can be applied to analyze business data. The insights obtained from the supermarket sales dataset help in understanding sales patterns and customer behavior, making the analysis useful for data-driven decision-making.
+**Organization:** ApexPlanet Software Pvt. Ltd.
+
+**Domain:** Data Analytics
+
+**Task:** Task 4 - Advanced Analytics & Statistical Modeling
 
 ---
 
-## 👨‍💻 Author
-
-**Nishanth KC**
-
-Python • Data Analysis • Statistics • Machine Learning
+⭐ Thank you for visiting this repository.
